@@ -1,16 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Orange Consulting S.A.S
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Nuestros productos
+subheading: Soluciones empresariales
 mainpitch:
-  title: Why Kaldi
+  title: Software administrativo y contable ERP
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Gestiona la información de tu negocio en línea y tiempo real, de forma local
+    o remota, comunicando todos tus puntos de venta, sucursales u oficinas a
+    nivel nacional o internacional solamente un servidor central
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +67,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
