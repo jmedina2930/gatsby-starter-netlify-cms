@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Orange Consulting S.A.S
 image: /img/home-jumbotron.jpg
-heading: Nuestros productos
+heading: 'Nuestros productos:'
 subheading: Soluciones empresariales
 mainpitch:
   title: Software administrativo y contable ERP
