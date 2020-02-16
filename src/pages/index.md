@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Orange Consulting S.A.S
-image: /img/home-jumbotron.jpg
+image: /img/helloquence-5fNmWej4tAA-unsplash.jpg
 heading: 'Nuestros productos:'
 subheading: Soluciones empresariales
 mainpitch:
