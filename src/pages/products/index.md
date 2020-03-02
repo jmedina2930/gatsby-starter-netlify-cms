@@ -7,27 +7,15 @@ description: ' Es una solución robusta, potente, amigable, fácil de usar, cons
 intro:
   blurbs:
     - image: /img/pub12b.jpg
-      text: >-
+      text: >+
         Ventas: Cotizaciones, pedidos, remisiones, facturación, despachos y
         devoluciones de ventas.
 
+    - image: /img/financial-4560047_1920.jpg
+      text: >-
 
         Compras: Cotizaciones a proveedores, pedidos a proveedores, compras de
         mercancía, entrada de mercancía y devoluciones en compras.
-
-
-        Inventarios: Entradas y salidas especiales, traslados entre bodegas,
-        causación de gastos, ajustes al costo de inventario y ajuste saldos
-        pendientes.
-
-
-        Cuentas por Cobrar: Recibos de caja, notas débito y notas crédito
-        clientes.
-    - image: /img/chemex.jpg
-      text: >-
-
-        Profesional: Versión con más funcionalidades y capacidad de conectar
-        mayor número de usuarios (hasta 10 usuarios)
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
