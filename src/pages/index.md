@@ -24,7 +24,7 @@ intro:
       text: >
         Professional: Versión con más funcionalidades y capacidad de conectar
         mayor número de usuarios (hasta 10 usuarios).
-    - image: /img/tutorials.png
+    - image: /img/erp1.jpg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
