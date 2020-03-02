@@ -6,7 +6,7 @@ heading: SOFMAKER SQL
 description: ' Es una solución robusta, potente, amigable, fácil de usar, construida con lo último en tecnología de desarrollo de software y que le permite crecer (adicionar otros módulos) conforme sea el crecimiento de su negocio, gracias a su plataforma abierta.  ​  Las empresas cambian, los procesos cambian, los mercados cambian, el administrador de tus procesos también debe ser flexible ante los cambios'
 intro:
   blurbs:
-    - image: /img/blog-index.jpg
+    - image: /img/pub12b.jpg
       text: >-
         Ventas: Cotizaciones, pedidos, remisiones, facturación, despachos y
         devoluciones de ventas.
