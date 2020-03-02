@@ -21,13 +21,24 @@ intro:
         Inventarios: Entradas y salidas especiales, traslados entre bodegas,
         causación de gastos, ajustes al costo de inventario y ajuste saldos
         pendientes.
-    - image: /img/meeting-space.png
+    - image: /img/accounting-761599_1920.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Cuentas por Cobrar: Recibos de caja, notas débito y notas crédito
+        clientes.
+
+
+        Tesorería o Proveedores: Causación de gastos, órdenes de pago, cheques o
+        egresos, notas debito de cuentas por pagar y notas crédito de cuentas
+        por pagar.
+    - image: /img/stock-624712_1920.jpg
+      text: >-
+        Bancos: Consignaciones, notas bancarias, conciliación bancaria y
+        configuración bancos.
+    - image: /img/graph-3068300_1920.jpg
+      text: |-
+        Generadores de Reportes y Formatos de Documentos.
+
+        Kit para Desarrollos propios
   heading: 'MODULO ADMINISTRATIVO '
   description: PRUEBAS PAGINA
 main:
