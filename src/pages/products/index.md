@@ -6,23 +6,21 @@ heading: SOFMAKER SQL
 description: ' Es una solución robusta, potente, amigable, fácil de usar, construida con lo último en tecnología de desarrollo de software y que le permite crecer (adicionar otros módulos) conforme sea el crecimiento de su negocio, gracias a su plataforma abierta.  ​  Las empresas cambian, los procesos cambian, los mercados cambian, el administrador de tus procesos también debe ser flexible ante los cambios'
 intro:
   blurbs:
-    - image: /img/pub12b.jpg
+    - image: /img/algebra-1238600_1920.jpg
       text: >+
         Ventas: Cotizaciones, pedidos, remisiones, facturación, despachos y
         devoluciones de ventas.
 
-    - image: /img/financial-4560047_1920.jpg
+    - image: /img/icon-1415760_1920.png
       text: >-
 
         Compras: Cotizaciones a proveedores, pedidos a proveedores, compras de
         mercancía, entrada de mercancía y devoluciones en compras.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Inventarios: Entradas y salidas especiales, traslados entre bodegas,
+        causación de gastos, ajustes al costo de inventario y ajuste saldos
+        pendientes.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
