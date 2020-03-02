@@ -11,10 +11,12 @@ mainpitch:
     o remota, comunicando todos tus puntos de venta, sucursales u oficinas a
     nivel nacional o internacional solamente un servidor central
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Es una solución robusta, potente, amigable, fácil de usar, construida con lo
+  último en tecnología de desarrollo de software y que le permite crecer
+  (adicionar otros módulos) conforme sea el crecimiento de su negocio, gracias a
+  su plataforma abierta.  ​  Las empresas cambian, los procesos cambian, los
+  mercados cambian, el administrador de tus procesos también debe ser flexible
+  ante los cambios.
 intro:
   blurbs:
     - image: /img/coffee.png
