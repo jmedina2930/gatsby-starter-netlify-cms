@@ -1,17 +1,29 @@
 ---
 templateKey: product-page
-title: NUESTROS PRODUCTOS
+title: NUESTROS SERVICIOS
 image: /img/helloquence-5fNmWej4tAA-unsplash.jpg
 heading: SOFMAKER SQL
 description: ' Es una solución robusta, potente, amigable, fácil de usar, construida con lo último en tecnología de desarrollo de software y que le permite crecer (adicionar otros módulos) conforme sea el crecimiento de su negocio, gracias a su plataforma abierta.  ​  Las empresas cambian, los procesos cambian, los mercados cambian, el administrador de tus procesos también debe ser flexible ante los cambios'
 intro:
   blurbs:
-    - image: /img/c849b7_0db63b87c7f64b6ca6fe3ad8daed2cb9_mv2.webp
+    - image: /img/blog-index.jpg
       text: >-
-        Lite: Versión totalmente gratis para ser descargada directamente desde
-        el sitio Web www.sofmaker.com. No requiere comprar una suscripción de
-        soporte técnico y actualizaciones.
-    - image: /img/unnamed.jpg
+        Ventas: Cotizaciones, pedidos, remisiones, facturación, despachos y
+        devoluciones de ventas.
+
+
+        Compras: Cotizaciones a proveedores, pedidos a proveedores, compras de
+        mercancía, entrada de mercancía y devoluciones en compras.
+
+
+        Inventarios: Entradas y salidas especiales, traslados entre bodegas,
+        causación de gastos, ajustes al costo de inventario y ajuste saldos
+        pendientes.
+
+
+        Cuentas por Cobrar: Recibos de caja, notas débito y notas crédito
+        clientes.
+    - image: /img/chemex.jpg
       text: >-
 
         Profesional: Versión con más funcionalidades y capacidad de conectar
@@ -30,7 +42,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: PRUEBAS ENCABEZADO
+  heading: 'MODULO ADMINISTRATIVO '
   description: PRUEBAS PAGINA
 main:
   heading: Great coffee with no compromises
