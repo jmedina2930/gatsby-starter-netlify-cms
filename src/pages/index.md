@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Orange Consulting S.A.S
 image: /img/helloquence-5fNmWej4tAA-unsplash.jpg
-heading: 'Nuestros productos:'
+heading: 'Sofmaker SQL está disponible en tres (3) versiones diferentes:'
 subheading: Soluciones empresariales
 mainpitch:
   title: Software administrativo y contable ERP
@@ -10,28 +10,20 @@ mainpitch:
     Gestiona la información de tu negocio en línea y tiempo real, de forma local
     o remota, comunicando todos tus puntos de venta, sucursales u oficinas a
     nivel nacional o internacional solamente un servidor central
-description: >-
-  Es una solución robusta, potente, amigable, fácil de usar, construida con lo
-  último en tecnología de desarrollo de software y que le permite crecer
-  (adicionar otros módulos) conforme sea el crecimiento de su negocio, gracias a
-  su plataforma abierta.  ​  Las empresas cambian, los procesos cambian, los
-  mercados cambian, el administrador de tus procesos también debe ser flexible
-  ante los cambios.
+description: Para todo tipo de empresa
 intro:
   blurbs:
     - image: /img/c849b7_0db63b87c7f64b6ca6fe3ad8daed2cb9_mv2.webp
+      text: >-
+        Lite: Versión totalmente gratis para ser descargada directamente desde
+        el sitio Web www.sofmaker.com. 
+
+        No requiere comprar una suscripción de soporte técnico y
+        actualizaciones.
+    - image: /img/profesional.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Professional: Versión con más funcionalidades y capacidad de conectar
+        mayor número de usuarios (hasta 10 usuarios).
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -46,12 +38,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: 'Lite:'
-  description: >-
-    Versión totalmente gratis para ser descargada directamente desde el sitio
-    Web www.sofmaker.com. 
-
-    No requiere comprar una suscripción de soporte técnico y actualizaciones.
+  heading: Maria encabezo
+  description: descripcion de maria encabezado
 main:
   heading: profesional
   description: prueba
