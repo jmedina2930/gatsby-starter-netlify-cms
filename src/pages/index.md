@@ -9,7 +9,7 @@ mainpitch:
   description: >
     Gestiona la información de tu negocio en línea y tiempo real, de forma local
     o remota, comunicando todos tus puntos de venta, sucursales u oficinas a
-    nivel nacional o internacional solamente un servidor central
+    nivel nacional o internacional solamente un servidor central.
 description: Para todo tipo de empresa
 intro:
   blurbs:
