@@ -19,7 +19,7 @@ description: >-
   ante los cambios.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/c849b7_0db63b87c7f64b6ca6fe3ad8daed2cb9_mv2.webp
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -46,12 +46,12 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: 'Lite:'
+  description: >-
+    Versión totalmente gratis para ser descargada directamente desde el sitio
+    Web www.sofmaker.com. 
+
+    No requiere comprar una suscripción de soporte técnico y actualizaciones.
 main:
   heading: Great coffee with no compromises
   description: >
