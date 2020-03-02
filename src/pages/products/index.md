@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
-title: 'Lite:'
-image: /img/c849b7_0db63b87c7f64b6ca6fe3ad8daed2cb9_mv2.webp
+title: PRODUCTOS
+image: /img/helloquence-5fNmWej4tAA-unsplash.jpg
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
