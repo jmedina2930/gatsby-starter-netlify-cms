@@ -6,7 +6,7 @@ heading: LITE
 description: ' Versión totalmente gratis para ser descargada directamente desde el sitio Web www.sofmaker.com.  No requiere comprar una suscripción de soporte técnico y actualizaciones.'
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/c849b7_0db63b87c7f64b6ca6fe3ad8daed2cb9_mv2.webp
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
