@@ -16,7 +16,7 @@ intro:
 
         Compras: Cotizaciones a proveedores, pedidos a proveedores, compras de
         mercancía, entrada de mercancía y devoluciones en compras.
-    - image: /img/tutorials.png
+    - image: /img/checklist-1919328_1920.png
       text: >
         Inventarios: Entradas y salidas especiales, traslados entre bodegas,
         causación de gastos, ajustes al costo de inventario y ajuste saldos
