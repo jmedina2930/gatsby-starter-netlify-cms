@@ -3,11 +3,7 @@ templateKey: product-page
 title: NUESTROS PRODUCTOS
 image: /img/helloquence-5fNmWej4tAA-unsplash.jpg
 heading: LITE
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: ' Versión totalmente gratis para ser descargada directamente desde el sitio Web www.sofmaker.com.  No requiere comprar una suscripción de soporte técnico y actualizaciones.'
 intro:
   blurbs:
     - image: /img/coffee.png
