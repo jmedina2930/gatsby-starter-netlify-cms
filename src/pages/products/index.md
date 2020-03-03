@@ -42,12 +42,12 @@ intro:
   heading: 'MODULO ADMINISTRATIVO '
   description: PRUEBAS PAGINA
 main:
-  heading: Great coffee with no compromises
+  heading: MODULO POS ( Puntos de venta)
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Potente Sistema ideal para ventas rápidas en vitrina o mostrador. Totalmente
+    integrado al Modulo Administrativo con lo cual se mantiene totalmente
+    actualizado los inventarios, Saldos de Cuentas por Cobrar entre otras tablas
+    de saldos.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -58,14 +58,10 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: quitar esta linea
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Soporta dispositivos electrónicos como: Cajón monedero, Lector de código
+      de barras, scanner, impresoras de tirilla etc.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
