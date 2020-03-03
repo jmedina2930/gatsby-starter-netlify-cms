@@ -39,6 +39,19 @@ intro:
         Generadores de Reportes y Formatos de Documentos.
 
         Kit para Desarrollos propios
+    - image: /img/audit-4189560_1920.jpg
+      text: |-
+        Centros de costos y Plan de cuentas hasta 10 niveles (20 dígitos)
+
+        Ajustes por inflación, Informes Contables,
+
+        Informes Tributarios,
+
+        Activos Fijos,
+
+        Provisiones,
+
+        Diferidos.
   heading: 'MODULO ADMINISTRATIVO '
   description: QUITAR ESTA DESCRIPCION
 main:
@@ -53,7 +66,7 @@ main:
     Soporta dispositivos electrónicos como: Cajón monedero, Lector de código de
     barras, scanner, impresoras de tirilla etc.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: donde sale esto?
     image: /img/products-grid3.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
