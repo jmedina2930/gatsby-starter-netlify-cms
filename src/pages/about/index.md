@@ -1,19 +1,25 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Sobre Nosotros
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+<!--StartFragment-->
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+ORANGE CONSULTING SAS, es una casa distribuidora de soluciones ofimáticas empresariales, que se enfoca en generar valor agregado a los procesos de sus clientes a través de aplicativos de calidad y que al mismo tiempo sean funcionalmente prácticos y confiables.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+​
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+<!--EndFragment-->
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+<!--StartFragment-->
+
+Esta compañía nace para cubrir la necesidad de generar una atención y servicio al cliente con valor agregado en el en el mercado ofimático empresarial y como oportunidad de negocio hacia la expansión de nuestro producto principal SOFMAKER, desarrollado por la casa matriz GYG Software, con quien se lleva trabajando al rededor de 25 años.
+
+​
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+Orange Consulting se visiona como una casa de comercialización de software de alto reconocimiento en el mercado, trayendo siempre consigo aplicaciones de ultima tecnología que brinden a sus clientes una alternativa práctica combinada con un valor agregado y costo razonable.
+
+<!--EndFragment-->
