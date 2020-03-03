@@ -43,11 +43,15 @@ intro:
   description: PRUEBAS PAGINA
 main:
   heading: MODULO POS ( Puntos de venta)
-  description: >
+  description: >-
     Potente Sistema ideal para ventas rápidas en vitrina o mostrador. Totalmente
     integrado al Modulo Administrativo con lo cual se mantiene totalmente
     actualizado los inventarios, Saldos de Cuentas por Cobrar entre otras tablas
     de saldos.
+
+
+    Soporta dispositivos electrónicos como: Cajón monedero, Lector de código de
+    barras, scanner, impresoras de tirilla etc.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -58,10 +62,8 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: quitar esta linea
-    quote: >-
-      Soporta dispositivos electrónicos como: Cajón monedero, Lector de código
-      de barras, scanner, impresoras de tirilla etc.
+  - author: autor
+    quote: testimonio
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
