@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: NUESTROS SERVICIOS
-image: /img/helloquence-5fNmWej4tAA-unsplash.jpg
+image: /img/work-731198_1920.jpg
 heading: SOFMAKER SQL
 description: ' Es una solución robusta, potente, amigable, fácil de usar, construida con lo último en tecnología de desarrollo de software y que le permite crecer (adicionar otros módulos) conforme sea el crecimiento de su negocio, gracias a su plataforma abierta.  ​  Las empresas cambian, los procesos cambian, los mercados cambian, el administrador de tus procesos también debe ser flexible ante los cambios'
 intro:
@@ -40,7 +40,7 @@ intro:
 
         Kit para Desarrollos propios
   heading: 'MODULO ADMINISTRATIVO '
-  description: PRUEBAS PAGINA
+  description: QUITAR ESTA DESCRIPCION
 main:
   heading: MODULO POS ( Puntos de venta)
   description: >-
