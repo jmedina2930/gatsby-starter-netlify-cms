@@ -67,6 +67,16 @@ intro:
 
         Indicadores de Actividad, Rentabilidad, Endeudamiento, de Balance, de
         Cartera y Proveedores.
+    - image: /img/pie-chart-1569175_1920.jpg
+      text: |-
+        Indicadores de Gestión
+
+        Generadores Incluidos
+
+        Generador de informes y formatos de documentos.
+        Generador de Indicadores Financieros.
+
+        Aspectos más relevantes contemplados en la versión para las NIIF y NIC.
   heading: 'MODULO ADMINISTRATIVO '
   description: QUITAR ESTA DESCRIPCION
 main:
