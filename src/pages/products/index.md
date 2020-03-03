@@ -52,6 +52,21 @@ intro:
         Provisiones,
 
         Diferidos.
+    - image: /img/profits-1953616_1920.jpg
+      text: >-
+        Informes Administrativos (Estado de Pérdidas y Ganancias, Balance
+        General, Flujo de Efectivo, Cambios en la posición Financiera, Cambios
+        en el Patrimonio, Inventarios y Balance).
+
+
+        Medios Magnéticos en formato XML,
+
+
+        Presupuestos Contables,
+
+
+        Indicadores de Actividad, Rentabilidad, Endeudamiento, de Balance, de
+        Cartera y Proveedores.
   heading: 'MODULO ADMINISTRATIVO '
   description: QUITAR ESTA DESCRIPCION
 main:
