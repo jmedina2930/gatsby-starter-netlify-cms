@@ -64,34 +64,49 @@ main:
 testimonials:
   - author: autor
     quote: testimonio
-full_image: /img/products-full-width.jpg
+full_image: /img/entrepreneur-1340649_1920.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Casos de Éxito
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Gracias a la plataforma abierta que trabajamos con SOFTMAKER SQL, hemos
+    podido desarrollar aplicativos específicos para algunos rubros comerciales,
+    como lo son: Estaciones de Combustible, Servitecas, CDA y afines, Transporte
+    de carga y pasajeros, Distribuidores de consumo masivo.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: >-
+        Innovadora Solución Administrativa, Contable y Operativa que abarca
+        todas las áreas de EDS, Servitecas, CDA y Empresas Afines a la
+        prestación de Servicios para Vehículos. Entre las principales bondades
+        esta la integración Automática con los principales software de control
+        de surtidores del País como Insepet, Petrobox y Servipunto
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - MACROLLANTAS
+        - MULTI CAR TEXACO ENVIGADO
+        - FRENOS PALA
+      plan: Aplicativo Automotor
+      price: '0'
+    - description: >-
+        Contamos con una completa Solución que abarca todas las áreas de este
+        tipo de Empresas. Entre las principales bondades son: Manejo de Giros y
+        Encomiendas, Venta de Tiquetes en Taquilla, Venta tiquetes por Internet,
+        ERP con Contabilidad NIIF, Nomina, Control Producido por Vehículo.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - FLOTA GRANADA
+        - TRANSEGOVIA
+        - AUTOAIRES
+      plan: Solución Sector transporte
+      price: '0'
+    - description: >-
+        Hemos adaptado un aplicativo que permita realizar las ordenes de cargue
+        de cada despacho, y además que permita generar los informes y archivos
+        planos para los grandes proveedores de la industria de productos de
+        consumo masivo de acuerdo a los requerimientos puntuales de cada uno de
+        ellos.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - SURTILINEAS DEL CARIBE
+        - PASTELERIA SANTA ELENA
+        - REYPAR MOTOS
+      plan: Solución Comercialización Consumo Masivo
+      price: .
 ---
 
