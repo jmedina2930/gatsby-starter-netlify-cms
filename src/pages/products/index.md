@@ -102,7 +102,7 @@ main:
     la factura y diseño de factura a gusto de la empresa.
   image1:
     alt: donde sale esto?
-    image: /img/factura-digital.gif
+    image: /img/fe1 (2).png
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
