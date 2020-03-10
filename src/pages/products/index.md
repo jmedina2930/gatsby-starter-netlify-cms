@@ -105,7 +105,7 @@ main:
     image: /img/fe1 (2).png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/factura-electronica.jpg
   image3:
     alt: Coffee beans
     image: /img/factura-digital.gif
