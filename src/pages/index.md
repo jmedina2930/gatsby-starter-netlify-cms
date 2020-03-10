@@ -30,6 +30,15 @@ intro:
         una capacidad de conectar 
 
         mayor número de usuarios (hasta 20 usuarios o más).
+    - image: /img/ele.png
+      text: >-
+        La factura electrónica es un documento que soporta transacciones de
+        venta de bienes o servicios y debe ser expedida, entregada, aceptada y
+        conservada en medios electrónicos. Dicha tecnología debe ser
+        implementada de manera obligatoria por muchas empresas del país durante
+        el 2019 y 2020. En las Resoluciones 000020 y 000030 de 2019 los
+        empresarios podrán conocer las especificaciones técnicas y tecnológicas
+        de la facturación, importantes para emitir la factura electrónica.
   heading: Maria encabezo
   description: descripcion de maria encabezado
 main:
