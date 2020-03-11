@@ -77,28 +77,38 @@ intro:
         Generador de Indicadores Financieros.
 
         Aspectos más relevantes contemplados en la versión para las NIIF y NIC.
+    - image: /img/eet-4818545_1920.jpg
+      text: >-
+        MODULO POS
+
+        ( Puntos de venta)
+
+
+        Potente Sistema ideal para ventas rápidas en vitrina o mostrador.
+        Totalmente integrado al Modulo Administrativo con lo cual se mantiene
+        totalmente actualizado los inventarios, Saldos de Cuentas por Cobrar
+        entre otras tablas de saldos. Soporta dispositivos electrónicos como:
+        Cajón monedero, Lector de código de barras, scanner, impresoras de
+        tirilla etc.
   heading: 'MODULO ADMINISTRATIVO '
   description: QUITAR ESTA DESCRIPCION
 main:
-  heading: MODULO POS ( Puntos de venta)
+  heading: FACTURACIÓN ELETRÓNICA
   description: >-
-    Potente Sistema ideal para ventas rápidas en vitrina o mostrador. Totalmente
-    integrado al Modulo Administrativo con lo cual se mantiene totalmente
-    actualizado los inventarios, Saldos de Cuentas por Cobrar entre otras tablas
-    de saldos.
-
-
-    Soporta dispositivos electrónicos como: Cajón monedero, Lector de código de
-    barras, scanner, impresoras de tirilla etc.
+    Con solución TODO EN UNO tiene todo lo que su negocio necesita: Solución ERP
+    con licencia gratuita, un proveedor certificado por la DIAN para la factura
+    electrónica, transmisión de la factura a la DIAN, descarga de la factura en
+    PDF con el CUFE y QR, App gratuita para celular para que el cliente reciba
+    la factura y diseño de factura a gusto de la empresa.
   image1:
     alt: donde sale esto?
-    image: /img/products-grid3.jpg
+    image: /img/fe1 (2).png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/factura-electronica.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/factura-digital.gif
 testimonials:
   - author: autor
     quote: testimonio
