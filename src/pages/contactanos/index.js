@@ -39,7 +39,7 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contáctenos</h1>
+              <h1>Contáctanos</h1>
               <form
                 name="contact"
                 method="post"
@@ -87,20 +87,6 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={"message"}>
-                    Mensaje
-                  </label>
-                  <div className="control">
-                    <textarea
-                      className="textarea"
-                      name={"message"}
-                      onChange={this.handleChange}
-                      id={"message"}
-                      required={true}
-                    />
-                  </div>
-                </div>
-                  <div className="field">
                   <label className="label" htmlFor={"empresa"}>
                     Empresa
                   </label>
@@ -108,7 +94,7 @@ export default class Index extends React.Component {
                     <input
                       className="input"
                       type={"empresa"}
-                      name={"username"} 
+                      name={"username"}
                       onChange={this.handleChange}
                       id={"username"}
                       required={false}
@@ -131,8 +117,22 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
+                  <label className="label" htmlFor={"message"}>
+                    Mensaje
+                  </label>
+                  <div className="control">
+                    <textarea
+                      className="textarea"
+                      name={"message"}
+                      onChange={this.handleChange}
+                      id={"message"}
+                      required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Enviar
                   </button>
                 </div>
               </form>
