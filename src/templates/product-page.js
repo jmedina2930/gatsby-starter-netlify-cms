@@ -236,7 +236,10 @@ export const productPageQuery = graphql`
           description
           plans {
             description
-            items
+            items {
+              name
+              logo
+            }
             plan
             price
           }

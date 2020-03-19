@@ -10,10 +10,18 @@ const Pricing = ({ data }) => (
             {price.plan}
           </h4>
           <p className="has-text-weight-semibold">{price.description}</p>
-          <ul>
+          <ul style={{ marginLeft: "0rem" }}>
             {price.items.map(item => (
-              <li key={item} className="is-size-5">
-                {item}
+              <li
+                key={item}
+                className="is-size-5"
+                style={{
+                  marginTop: "2rem",
+                  marginBottom: "2rem",
+                  listStyleType: "none"
+                }}
+              >
+                <img src={item.logo} />
               </li>
             ))}
           </ul>
