@@ -13,7 +13,7 @@ const Pricing = ({ data }) => (
           <ul style={{ marginLeft: "0rem" }}>
             {price.items.map(item => (
               <li
-                key={item}
+                key={item.name}
                 className="is-size-5"
                 style={{
                   marginTop: "2rem",

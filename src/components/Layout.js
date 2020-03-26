@@ -6,8 +6,12 @@ import "./all.sass";
 import useSiteMetadata from "./SiteMetadata";
 import { withPrefix } from "gatsby";
 
-const TemplateWrapper = ({ children }) => {
+const TemplateWrapper = ({ noChat, children }) => {
   const { title, description } = useSiteMetadata();
+  // Hide chat when is support page
+  const divs = Array.from(document.body.childNodes);
+  let chat = divs[divs.length - 1];
+  chat.style = noChat ? "display: none;" : "display: block !important;";
   return (
     <div>
       <Helmet>
