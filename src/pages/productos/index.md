@@ -1,9 +1,15 @@
 ---
 templateKey: product-page
-title: NUESTROS SERVICIOS
+title: Nuestros servicios
 image: /img/work-731198_1920.jpg
 heading: SOFMAKER SQL
-description: "Es una solución robusta, potente, amigable, fácil de usar, construida con lo último en tecnología de desarrollo de software y que le permite crecer (adicionar otros módulos) conforme sea el crecimiento de su negocio, gracias a su plataforma abierta.  ​  Las empresas cambian, los procesos cambian, los mercados cambian, el administrador de tus procesos también debe ser flexible ante los cambios"
+description: >-
+  Es una solución robusta, potente, amigable, fácil de usar, construida con lo
+  último en tecnología de desarrollo de software y que le permite crecer
+  (adicionar otros módulos) conforme sea el crecimiento de su negocio, gracias a
+  su plataforma abierta.  ​  Las empresas cambian, los procesos cambian, los
+  mercados cambian, el administrador de tus procesos también debe ser flexible
+  ante los cambios
 intro:
   blurbs:
     - image: /img/algebra-1238600_1920.jpg
@@ -90,7 +96,7 @@ intro:
         entre otras tablas de saldos. Soporta dispositivos electrónicos como:
         Cajón monedero, Lector de código de barras, scanner, impresoras de
         tirilla etc.
-  heading: "MODULO ADMINISTRATIVO"
+  heading: MODULO ADMINISTRATIVO
   description: QUITAR ESTA DESCRIPCION
 main:
   heading: FACTURACIÓN ELETRÓNICA
@@ -128,28 +134,28 @@ pricing:
         esta la integración Automática con los principales software de control
         de surtidores del País como Insepet, Petrobox y Servipunto
       items:
-        - name: MACROLLANTAS
-          logo: ../img/macrollantas.png
-        - name: MULTI CAR TEXACO ENVIGADO
-          logo: ../img/multicar.jpg
-        - name: FRENOS PALA
-          logo: ../img/frenos_pala.png
+        - logo: ../img/macrollantas.png
+          name: MACROLLANTAS
+        - logo: ../img/multicar.jpg
+          name: MULTI CAR TEXACO ENVIGADO
+        - logo: ../img/frenos_pala.png
+          name: FRENOS PALA
       plan: Aplicativo Automotor
-      price: "0"
+      price: '0'
     - description: >-
         Contamos con una completa Solución que abarca todas las áreas de este
         tipo de Empresas. Entre las principales bondades son: Manejo de Giros y
         Encomiendas, Venta de Tiquetes en Taquilla, Venta tiquetes por Internet,
         ERP con Contabilidad NIIF, Nomina, Control Producido por Vehículo.
       items:
-        - name: FLOTA GRANADA
-          logo: ../img/flota_granada.png
-        - name: TRANSEGOVIA
-          logo: ../img/transegovia.png
-        - name: AUTOAIRES
-          logo: ../img/autoaires.png
+        - logo: ../img/flota_granada.png
+          name: FLOTA GRANADA
+        - logo: ../img/transegovia.png
+          name: TRANSEGOVIA
+        - logo: ../img/autoaires.png
+          name: AUTOAIRES
       plan: Solución Sector transporte
-      price: "0"
+      price: '0'
     - description: >-
         Hemos adaptado un aplicativo que permita realizar las ordenes de cargue
         de cada despacho, y además que permita generar los informes y archivos
@@ -157,12 +163,13 @@ pricing:
         consumo masivo de acuerdo a los requerimientos puntuales de cada uno de
         ellos.
       items:
-        - name: SURTILINEAS DEL CARIBE
-          logo: ../img/surtilineas.jpg
-        - name: PASTELERIA SANTA ELENA
-          logo: ../img/santa_elena.png
-        - name: REYPAR MOTOS
-          logo: ../img/reypar.png
+        - logo: ../img/surtilineas.jpg
+          name: SURTILINEAS DEL CARIBE
+        - logo: ../img/santa_elena.png
+          name: PASTELERIA SANTA ELENA
+        - logo: ../img/reypar.png
+          name: REYPAR MOTOS
       plan: Solución Comercialización Consumo Masivo
       price: .
 ---
+
