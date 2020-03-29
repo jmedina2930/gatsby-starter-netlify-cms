@@ -7,7 +7,10 @@ export default function Index(props) {
       <div
         className="full-width-image margin-top-0"
         style={{
-          backgroundImage: `url("../img/helpdesk.jpg")`,
+          backgroundImage: `linear-gradient(
+            rgba(255, 102, 2, 0.3),
+            rgba(255, 102, 2, 0.3)
+          ), url("../img/helpdesk.jpg")`,
           backgroundPosition: `top left`,
           backgroundAttachment: `fixed`
         }}
@@ -15,9 +18,8 @@ export default function Index(props) {
         <h2
           className="has-text-weight-bold is-size-1"
           style={{
-            boxShadow: "0.5rem 0 0 #f40, -0.5rem 0 0 #f40",
-            backgroundColor: "#f40",
             color: "white",
+            textShadow: "1px 1px black",
             padding: "1rem"
           }}
         >
