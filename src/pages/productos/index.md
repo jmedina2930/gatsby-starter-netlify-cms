@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Nuestros servicios
+title: Nuestro portafolio
 image: /img/work-731198_1920.jpg
 heading: SOFMAKER SQL
 description: >-
@@ -107,14 +107,14 @@ main:
     PDF con el CUFE y QR, App gratuita para celular para que el cliente reciba
     la factura y diseño de factura a gusto de la empresa.
   image1:
-    alt: donde sale esto?
-    image: /img/fe1.png
+    alt: modelo factura eléctronica
+    image: ../img/fe1.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/factura-electronica.jpg
+    alt: factura eléctronica
+    image: ../img/factura-electronica.jpg
   image3:
-    alt: Coffee beans
-    image: /img/factura-digital.gif
+    alt: animación factura eléctronica
+    image: ../img/factura-digital.gif
 testimonials:
   - author: autor
     quote: testimonio

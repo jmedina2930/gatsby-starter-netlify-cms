@@ -62,22 +62,20 @@ export const ProductPageTemplate = ({
                 </div>
               </div>
               <div className="tile is-ancestor">
-                <div className="tile is-vertical">
+                <div className="tile is-horizontal">
                   <div className="tile">
-                    <div className="tile is-parent is-vertical">
-                      <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image1} />
-                      </article>
-                    </div>
-                    <div className="tile is-parent">
+                    <div className="tile is-parent has-text-left">
                       <article className="tile is-child">
                         <PreviewCompatibleImage imageInfo={main.image2} />
                       </article>
                     </div>
                   </div>
-                  <div className="tile is-parent">
+                  <div className="tile is-parent has-text-right">
                     <article className="tile is-child">
-                      <PreviewCompatibleImage imageInfo={main.image3} />
+                      <PreviewCompatibleImage
+                        imageInfo={main.image3}
+                        maxWidth="422px"
+                      />
                     </article>
                   </div>
                 </div>

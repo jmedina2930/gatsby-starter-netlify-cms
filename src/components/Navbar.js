@@ -49,26 +49,27 @@ const Navbar = class extends React.Component {
               />
             </Link>
             {/* Hamburger menu */}
-            {/* <div
+            <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
+              style={{ marginBottom: "auto", marginTop: "auto" }}
               onClick={() => this.toggleHamburger()}
             >
-              <span />
-              <span />
-              <span />
-            </div> */}
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+            </div>
           </div>
           <div
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
-            <div className="navbar-start has-text-centered">
+            <div className="navbar-end has-text-centered">
               <Link className="navbar-item" to="/nosotros">
                 Nosotros
               </Link>
               <Link className="navbar-item" to="/productos">
-                Productos
+                Portafolio
               </Link>
               {/* <Link className="navbar-item" to="/blog">
                 Blog
