@@ -161,6 +161,7 @@ collections:
                     fields:
                       [
                         { label: Image, name: image, widget: image },
+                        { label: title, name: title, widget: text },
                         { label: Text, name: text, widget: text },
                       ],
                   },
@@ -243,3 +244,4 @@ collections:
                   },
                 ],
             }
+       
