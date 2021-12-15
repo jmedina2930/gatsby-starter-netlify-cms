@@ -76,11 +76,6 @@ export const CloudPageTemplate = ({
               </div>
 
               <div className="column is-12" style={{ textAlign: "center" }}>
-                  <p class=" has-text-weight-semibold  text-yellow-500">Para nómina electrónica, entre el 1 y 15 de diciembre recibe el 20% de descuento en la activación de nómina (semestre) y 20% de descuento en soporte, activación y actualizaciones (anualidad) </p>
-                
-              </div>
-
-              <div className="column is-12" style={{ textAlign: "center" }}>
                   <p class=" has-text-weight-semibold is-size-3 text-yellow-500">Contáctanos por medio del siguiente botón para darte más información sobre nuestros servicios </p>
                 
               </div>
@@ -117,10 +112,11 @@ export const CloudPageTemplate = ({
                   })`,
                 }}
               />
-              <h2 className="has-text-weight-semibold is-size-2">
-                {pricing.heading}
-              </h2>
-              <p className="is-size-5">{pricing.description}</p>
+              <div className="column is-12" style={{ textAlign: "center" }}>
+                  <p  class=" has-text-weight-semibold is-size-3 text-yellow-500">ALGUNOS DE NUESTROS CLIENTES</p>
+                
+              </div>
+              <p className="is-size-5 ">{pricing.description}</p>
               <Pricing data={pricing.plans} />
             </div>
           </div>

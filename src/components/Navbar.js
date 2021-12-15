@@ -66,7 +66,7 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-end has-text-centered">
               <Link className="navbar-item" to="/nube" >
-                Factura y Nómina Eléctronica en la Nube
+                   FACTURA Y NÓMINA ELECTRÓNICA EN LA NUBE
               </Link>
               <Link className="navbar-item" to="/nosotros">
                 Nosotros

@@ -65,7 +65,7 @@ full_image: /img/entrepreneur-1340649_1920.jpg
 pricing:
   heading: Casos de Éxito
   description: >-
-    Gracias a la plataforma abierta que trabajamos con SOFTMAKER SQL, hemos
+    Gracias a la plataforma abierta que trabajamos con SOFTMAKER SQL y nuestro software empresarial en la nube, hemos
     podido desarrollar aplicativos específicos para algunos rubros comerciales,
     como lo son: Estaciones de Combustible, Servitecas, CDA y afines, Transporte
     de carga y pasajeros, Distribuidores de consumo masivo.
