@@ -84,7 +84,7 @@ pricing:
         - logo: ../img/frenos_pala.png
           name: FRENOS PALA
       plan: Aplicativo Automotor
-      price: '0'
+      price: "0"
     - description: >-
         Contamos con una completa Solución que abarca todas las áreas de este
         tipo de Empresas. Entre las principales bondades son: Manejo de Giros y
@@ -98,7 +98,7 @@ pricing:
         - logo: ../img/autoaires.png
           name: AUTOAIRES
       plan: Solución Sector transporte
-      price: '0'
+      price: "0"
     - description: >-
         Hemos adaptado un aplicativo que permita realizar las ordenes de cargue
         de cada despacho, y además que permita generar los informes y archivos
@@ -115,4 +115,3 @@ pricing:
       plan: Solución Comercialización Consumo Masivo
       price: .
 ---
-

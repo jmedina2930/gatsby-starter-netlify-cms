@@ -76,8 +76,10 @@ export const CloudPageTemplate = ({
               </div>
 
               <div className="column is-12" style={{ textAlign: "center" }}>
-                  <p class=" has-text-weight-semibold is-size-3 text-yellow-500">Contáctanos por medio del siguiente botón para darte más información sobre nuestros servicios </p>
-                
+                <p class=" has-text-weight-semibold is-size-3 text-yellow-500">
+                  Contáctanos por medio del siguiente botón para darte más
+                  información sobre nuestros servicios{" "}
+                </p>
               </div>
 
               <div className="mt-8 sm:ml-72 md:ml-96 lg:ml-96">
@@ -113,8 +115,9 @@ export const CloudPageTemplate = ({
                 }}
               />
               <div className="column is-12" style={{ textAlign: "center" }}>
-                  <p  class=" has-text-weight-semibold is-size-3 text-yellow-500">ALGUNOS DE NUESTROS CLIENTES</p>
-                
+                <p class=" has-text-weight-semibold is-size-3 text-yellow-500">
+                  ALGUNOS DE NUESTROS CLIENTES
+                </p>
               </div>
               <p className="is-size-5 ">{pricing.description}</p>
               <Pricing data={pricing.plans} />
