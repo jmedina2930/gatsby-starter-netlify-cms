@@ -1,48 +1,88 @@
 ---
 templateKey: cloud-page
-title: Factura y Nómina Electrónica en la Nube
-image: /img/work-731198_1920.jpg
+title: FACTURA Y NÓMINA ELECTRÓNICA EN LA NUBE
+image: /img/headway.jpg
+middlePageImage: /img/trent-erwin.jpg
+bottomPageImage: /img/numberpen.jpg
 heading: FACTURA Y NÓMINA ELECTRÓNICA EN UN MISMO LUGAR
 description: >-
   El único Software Empresarial en Colombia que puede ser modificado a gusto y/o necesidad del cliente. Planes para independientes, pymes y empresas, con Almacenamiento en la Nube.
 intro:
   blurbs:
-    - image: /img/orange.png
-      title: "hola"
+    - image: /img/lista.png
       text: >+
         Autorizados por la Dian como "Proveedores Certificados" para la prestación del servicio.
-    - image: /img/orange.png
+      title: >+
+        FACTURA Y NÓMINA ELECTRÓNICA
+
+    - image: /img/archivo.png
       text: >-
-
-        Compras: Cotizaciones a proveedores, pedidos a proveedores, compras de
-        mercancía, entrada de mercancía y devoluciones en compras.
-    - image: /img/orange.png
+        Administrativo, Contable y POS que permite modificaciones adaptadas a las necesidades de la cada empresa.
+      title: ERP PARA EMPRESAS COMERCIALES Y SERVICIOS
+    - image: /img/sobre.png
       text: >
-        Inventarios: Entradas y salidas especiales, traslados entre bodegas,
-        causación de gastos, ajustes al costo de inventario y ajuste saldos
-        pendientes.
-    - image: /img/orange.png
+        Robusta y moderna plataforma e-Commerce, que puede ser integrada al Sistema Administrativo.
+      title: COMERCIO ELECTRÓNICO
+    - image: /img/car.png
       text: >
-        Cuentas por Cobrar: Recibos de caja, notas débito y notas crédito
-        clientes.
-
-
-        Tesorería o Proveedores: Causación de gastos, órdenes de pago, cheques o
-        egresos, notas debito de cuentas por pagar y notas crédito de cuentas
-        por pagar.
-    - image: /img/orange.png
+        Solución Administrativa y Contable diseñada especialmente para Talleres, Servitecas, EDS, Concesionarios y afines.
+      title: ERP PARA SECTOR AUTOMOTRIZ
+    - image: /img/pencil.png
       text: >-
-        Bancos: Consignaciones, notas bancarias, conciliación bancaria y
-        configuración bancos.
-    - image: /img/orange.png
+        Sistema POS para minimercados y negocios de venta rápida.
+      title: POS ESTANDAR
+    - image: /img/pizza.png
       text: |-
-        Generadores de Reportes y Formatos de Documentos.
-
-        Kit para Desarrollos propios
+        Sistema POS para pantallas táctiles con manejo de mesas y ambientes. Ideal para los sectores de bebidas y alimentos.
+      title: POSTOUCH BEBIDAS Y ALIMENTOS
   heading: MODULO ADMINISTRATIVO
   description: QUITAR ESTA DESCRIPCION
+row:
+  elements:
+    - image: /img/exito.png
+      text: EXCELENTE SERVICIO DE ASISTENCIA TÉCNICA
+    - image: /img/exito.png
+      text: ALMACENAMIENTO 100% EN LA NUBE
+    - image: /img/exito.png
+      text: POSIBILIDADES DE CAMBIOS PARA ADAPTARLO A GUSTO
+    - image: /img/exito.png
+      text: PROVEEDOR CERTIFICADO DIAN PARA FACTURA Y NÓMINA
+    - image: /img/exito.png
+      text: ACTUALIZACIONES PERMANENTES SIN COSTO
+    - image: /img/exito.png
+      text: PROYECTO PARA CONTADORES Y VENDEDORES INDEPENDIENTES DE SOFTWARE.
+cloudPlans:
+  planEmpresarial:
+    image: /img/lista.png
+    title: Plan Empresarial
+    items:
+      - item: Facturación electrónica ilimitada
+      - item: Inventarios
+      - item: Tesoreria
+      - item: Contabilidad
+      - item: Medio Magneticos
+  planFE:
+    image: /img/lista.png
+    title: Plan FE
+    items:
+      - item: 100 facturas electrónicas anuales
+      - item: 8-9 facturas mes a mes
+  facturas:
+    image: /img/lista.png
+    title: Facturas
+    subtitle: Puedes escoger entre
+    items:
+      - item: Facturación electrónica por 500 documentos anuales
+      - item: Facturación electrónica ilimitada
+  nomina:
+    image: /img/lista.png
+    title: Nómina Electrónica
+    subtitle: Puedes escoger entre
+    items:
+      - item: Plan Semestral
+      - item: Plan Anual
 main:
-  heading: PLANES Y PRECIOS 100% EN LA NUBE
+  heading: FACTURACIÓN ELECTRÓNICA
   description: >-
     Con solución TODO EN UNO tiene todo lo que su negocio necesita: Solución ERP
     con licencia gratuita, un proveedor certificado por la DIAN para la factura
@@ -65,7 +105,7 @@ full_image: /img/entrepreneur-1340649_1920.jpg
 pricing:
   heading: Casos de Éxito
   description: >-
-    Gracias a la plataforma abierta que trabajamos con SOFTMAKER SQL y nuestro software empresarial en la nube, hemos
+    Gracias a la plataforma abierta que trabajamos con SOFTMAKER SQL y nuestros software para Facturación y nómina electrónica en la NUBE, hemos
     podido desarrollar aplicativos específicos para algunos rubros comerciales,
     como lo son: Estaciones de Combustible, Servitecas, CDA y afines, Transporte
     de carga y pasajeros, Distribuidores de consumo masivo.

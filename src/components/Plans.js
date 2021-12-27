@@ -2,13 +2,15 @@ import React from "react";
 import PropTypes from "prop-types";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 
-const FeatureGrid = ({ gridItems, page }) => {
-  let width;
-  page == "cloud" ? (width = "64px") : (width = "240px");
+const PlanGrid = ({ cloudPlans }) => {
+  const plans = Object.values(cloudPlans);
+  console.log("ESTE ES EL PLAN");
+  console.log(plans);
+/*   const listItems = plans[0].items.map((it) => <li>{it.item}</li>); */
   return (
     <div className="columns is-multiline">
-      {gridItems.map((item) => (
-        <div key={item.text} className="column is-6">
+      {plans.map((item, i) => (
+        <div key={item.title} className="column is-6">
           <section className="section">
             <div className="has-text-centered ">
               <h4>{item.title}</h4>
@@ -16,14 +18,15 @@ const FeatureGrid = ({ gridItems, page }) => {
             <div className="has-text-centered">
               <div
                 style={{
-                  width,
+                  width: "64px",
                   display: "inline-block",
                 }}
               >
                 <PreviewCompatibleImage imageInfo={item} />
               </div>
             </div>
-            <p>{item.text}</p>
+            <p>{item.subtitle}</p>
+            {jsx(i, plans)}
           </section>
         </div>
       ))}
@@ -31,7 +34,15 @@ const FeatureGrid = ({ gridItems, page }) => {
   );
 };
 
-FeatureGrid.propTypes = {
+function jsx(i, arr) {
+  return(<ul>
+    {arr[i].items.map((item) => (
+      <li key={item.item}>{item.item}</li>
+    ))}
+  </ul>);
+}
+
+PlanGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -41,4 +52,4 @@ FeatureGrid.propTypes = {
   ),
 };
 
-export default FeatureGrid;
+export default PlanGrid;
