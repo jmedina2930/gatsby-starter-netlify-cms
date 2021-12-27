@@ -23,11 +23,11 @@ const Navbar = class extends React.Component {
         // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
-            navBarActiveClass: "is-active"
-          })
+              navBarActiveClass: "is-active"
+            })
           : this.setState({
-            navBarActiveClass: ""
-          });
+              navBarActiveClass: ""
+            });
       }
     );
   };
@@ -65,8 +65,8 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-end has-text-centered">
-              <Link className="navbar-item" to="/nube" >
-                   FACTURA Y NÓMINA ELECTRÓNICA EN LA NUBE
+              <Link className="navbar-item" to="/cloud">
+                FACTURA Y NÓMINA ELECTRÓNICA EN LA NUBE
               </Link>
               <Link className="navbar-item" to="/nosotros">
                 Nosotros

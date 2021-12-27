@@ -2,18 +2,16 @@ import React from "react";
 import PropTypes from "prop-types";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 
-const FeatureGrid = ({ gridItems, page }) => {
+const List = ({ listItems, page }) => {
   let width;
-  page == "cloud" ? (width = "64px") : (width = "240px");
+  page == "cloud-list" ? (width = "16px") : (width = "240px");
   return (
-    <div className="columns is-multiline">
-      {gridItems.map((item) => (
-        <div key={item.text} className="column is-6">
-          <section className="section">
-            <div className="has-text-centered ">
-              <h4>{item.title}</h4>
-            </div>
-            <div className="has-text-centered">
+    <div>
+      <h3 class="is-size-3">BENEFICIOS</h3>
+      {listItems.map((item) => (
+        <div class="columns is-vcentered">
+          <div class="column">
+            <section>
               <div
                 style={{
                   width,
@@ -22,23 +20,24 @@ const FeatureGrid = ({ gridItems, page }) => {
               >
                 <PreviewCompatibleImage imageInfo={item} />
               </div>
-            </div>
+            </section>
+          </div>
+          <div class="column is-12">
             <p>{item.text}</p>
-          </section>
+          </div>
         </div>
       ))}
     </div>
   );
 };
 
-FeatureGrid.propTypes = {
+List.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
       text: PropTypes.string,
-      title: PropTypes.string,
     })
   ),
 };
 
-export default FeatureGrid;
+export default List;
